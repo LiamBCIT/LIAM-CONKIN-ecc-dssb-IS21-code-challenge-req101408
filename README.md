@@ -4,7 +4,7 @@ Put the following commands into your VSCode terminal to run the web application.
 
 ### `Steps to run web application`
 
-1- npm install react-router-dom
+1- npm install react-router-dom \
 2- json-server --watch db.json --port 8000 \
 3- [open a new node terminal] \
 4- npm start
