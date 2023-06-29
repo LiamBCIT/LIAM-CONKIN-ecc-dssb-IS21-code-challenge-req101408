@@ -98,7 +98,7 @@
       "id": 7
     },
     {
-      "productName": "Paint",
+      "productName": "Alpha",
       "productOwnerName": "Bob",
       "DeveloperNames": [
         "Jill",
@@ -113,40 +113,6 @@
       "LocationName": "github.com/90435853067",
       "active": true,
       "id": 8
-    },
-    {
-      "productName": "Product",
-      "productOwnerName": "Owner",
-      "DeveloperNames": [
-        "Dev",
-        "Dev2",
-        "",
-        "",
-        ""
-      ],
-      "ScrumMasterName": "Scrummer",
-      "StartDateName": "2023-02-03",
-      "MethodologyName": "Waterfall",
-      "LocationName": "github.com/293784",
-      "active": true,
-      "id": 9
-    },
-    {
-      "productName": "NAME",
-      "productOwnerName": "OWNER",
-      "DeveloperNames": [
-        "DEVELOPER",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "ScrumMasterName": "SCRUM",
-      "StartDateName": "2023-06-20",
-      "MethodologyName": "Waterfall",
-      "LocationName": "GITHUB.COM/27402042",
-      "active": true,
-      "id": 10
     }
   ]
 }
