@@ -4,8 +4,8 @@ Put the following commands into your VSCode terminal to run the web application.
 
 ### `Steps to run web application`
 
-1- json-server --watch db.json --port 8000
-2- open a new node terminal 
+1- json-server --watch db.json --port 8000 \
+2- open a new node terminal \
 3- npm start
 
 ### `npm start`
