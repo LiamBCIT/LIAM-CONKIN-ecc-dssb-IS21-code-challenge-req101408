@@ -40,7 +40,7 @@ const EmpListing = () => {
         <div className="container">
             <div className="card">
                 <div className="card-title">
-                    <h2>Api Listing</h2>
+                    <h2>Product Listings</h2>
                 </div>
                 <div className="card-body">
                     <div className="divbtn">
